@@ -1,0 +1,5 @@
+name: AdvancedDiscord
+version: ${project.version}
+main: me.xemu.advanceddiscord.AdvancedDiscord
+api-version: 1.16
+authors: [ Xemu ]
