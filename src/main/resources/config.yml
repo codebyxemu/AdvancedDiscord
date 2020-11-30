@@ -1,0 +1,15 @@
+# AdvancedDiscord Config
+# Available Placeholders:
+# - <link> | Returns link of the discord server defined under 'Links.Discord'
+
+Links:
+  # When leaving this blank, and error will spit about to the executor of the command.
+  Discord: ""
+
+DiscordCommand:
+  Output: "&8[&bDiscord&8] &7Join our discord: &b<link>&r&7."
+
+# All # in this config can be removed =)
+
+
+# by Xemu

@@ -1,3 +1,7 @@
+/*
+This plugin is currently not being prioritised.
+Will be updated by 4th December 2020
+ */
 package me.xemu.advanceddiscord;
 
 import org.bukkit.plugin.java.JavaPlugin;
